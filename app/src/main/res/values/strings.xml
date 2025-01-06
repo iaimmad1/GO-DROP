@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Go-Drop</string>
+    <string name="page1">Login</string>
+    <string name="page2">Signup</string>
+    <string name="string_user">Username/Email</string>
+    <string name="String_first">First Name</string>
+    <string name="String_middle">Middle Name</string>
+    <string name="String_last">Last Name</string>
+    <string name="string_pwd">Password</string>
+    <string name="string_forgotPwd">Forgot Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="string_google">Login with Google</string>
+    <string name="string_NoAccount">Don\'t have an account yet? Signup Now</string>
+    <string name="string_AlreadyAccount">Already Have an Account? Login</string>
+    <string name="String_email">Email</string>
+    <string name="String_mobile">Mobile</string>
+    <string name="String_cpwd">Confirm Password</string>
+    <string name="String_Back">Back To Home</string>
+
+
+    <string name="apps_name">Go-Drop</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

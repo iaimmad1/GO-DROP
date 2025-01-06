@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/option1"
+            android:title="Profile"
+            android:icon="@drawable/profile_btn"/>
+        <item
+            android:id="@+id/option7"
+            android:title="Shop Information"
+            android:icon="@drawable/shop"/>
+        <item
+            android:id="@+id/option2"
+            android:title="Category Management"
+            android:icon="@drawable/kyc"/>
+        <item
+            android:id="@+id/option3"
+            android:title="Product Management"
+            android:icon="@drawable/product"/>
+        <item
+            android:id="@+id/option4"
+            android:title="Order Management"
+            android:icon="@drawable/order"/>
+
+        <item
+            android:id="@+id/option5"
+            android:title="Settings"
+            android:icon="@drawable/setting_btn"/>
+        <item
+            android:id="@+id/option6"
+            android:title="Logout"
+            android:icon="@drawable/logout_btn"/>
+    </group>
+
+</menu>
